@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.deps.json
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.runtimeconfig.json
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.AssemblyInfo.cs
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.pdb
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.csproj.CopyComplete
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.Structure\obj\Debug\netcoreapp2.0\StorageMaster.Tests.Structure.pdb

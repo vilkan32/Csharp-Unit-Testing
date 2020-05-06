@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\Skeleton.exe
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\Skeleton.deps.json
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\Skeleton.runtimeconfig.json
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\Skeleton.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\Skeleton.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\bin\Release\netcoreapp2.0\win-x64\Skeleton.pdb
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\obj\Release\netcoreapp2.0\win-x64\Skeleton.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\obj\Release\netcoreapp2.0\win-x64\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\obj\Release\netcoreapp2.0\win-x64\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\obj\Release\netcoreapp2.0\win-x64\Skeleton.AssemblyInfo.cs
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\obj\Release\netcoreapp2.0\win-x64\Skeleton.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton\obj\Release\netcoreapp2.0\win-x64\Skeleton.pdb

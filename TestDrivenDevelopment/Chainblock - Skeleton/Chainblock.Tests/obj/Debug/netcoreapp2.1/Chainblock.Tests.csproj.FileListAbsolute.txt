@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.deps.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.runtimeconfig.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.AssemblyInfo.cs
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.csproj.CopyComplete
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.pdb

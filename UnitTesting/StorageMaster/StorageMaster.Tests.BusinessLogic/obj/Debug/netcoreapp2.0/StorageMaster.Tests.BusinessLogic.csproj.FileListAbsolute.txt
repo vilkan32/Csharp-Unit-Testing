@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.deps.json
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.runtimeconfig.json
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.AssemblyInfo.cs
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.csproj.CopyComplete
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.pdb
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.dll
+C:\Users\Acer\Desktop\UnitTesting\StorageMaster\StorageMaster.Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMaster.Tests.BusinessLogic.pdb

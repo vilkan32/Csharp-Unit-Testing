@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.Tests.deps.json
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.Tests.runtimeconfig.json
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.Tests.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.Tests.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.Tests.pdb
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\bin\Debug\netcoreapp2.1\CarTrip.pdb
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.csproj.CopyComplete
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip.Tests\obj\Debug\netcoreapp2.1\CarTrip.Tests.pdb

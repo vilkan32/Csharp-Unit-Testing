@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.deps.json
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.dll
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.runtimeconfig.json
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.0\CustomLinkedList.pdb
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.dll
+C:\Users\Acer\Desktop\UnitTesting\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.0\CustomLinkedList.pdb

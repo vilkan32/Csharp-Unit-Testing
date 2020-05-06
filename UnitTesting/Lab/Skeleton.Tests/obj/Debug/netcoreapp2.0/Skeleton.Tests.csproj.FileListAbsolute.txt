@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.deps.json
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.AssemblyInfo.cs
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csproj.CopyComplete
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.runtimeconfig.json
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.pdb
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.dll
+C:\Users\Acer\Desktop\UnitTesting\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.pdb

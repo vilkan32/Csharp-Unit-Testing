@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageMaster", "StorageMaster\StorageMaster.csproj", "{D4543A1C-4601-4B18-B0D5-DD69FBFE300B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageMaster.Tests.Structure", "StorageMaster.Tests.Structure\StorageMaster.Tests.Structure.csproj", "{18228B38-3C69-4116-B184-D075EFA9CCDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageMaster.Tests.BusinessLogic", "StorageMaster.Tests.BusinessLogic\StorageMaster.Tests.BusinessLogic.csproj", "{7AA81288-C1E3-45A5-8AB0-6EA34009DDC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4543A1C-4601-4B18-B0D5-DD69FBFE300B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4543A1C-4601-4B18-B0D5-DD69FBFE300B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4543A1C-4601-4B18-B0D5-DD69FBFE300B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4543A1C-4601-4B18-B0D5-DD69FBFE300B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18228B38-3C69-4116-B184-D075EFA9CCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18228B38-3C69-4116-B184-D075EFA9CCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18228B38-3C69-4116-B184-D075EFA9CCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18228B38-3C69-4116-B184-D075EFA9CCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA81288-C1E3-45A5-8AB0-6EA34009DDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA81288-C1E3-45A5-8AB0-6EA34009DDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA81288-C1E3-45A5-8AB0-6EA34009DDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA81288-C1E3-45A5-8AB0-6EA34009DDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC383087-B5DE-4160-8E94-187BC0A0AC79}
+	EndGlobalSection
+EndGlobal

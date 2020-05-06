@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.deps.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfo.cs
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.pdb

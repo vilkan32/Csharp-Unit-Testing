@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.deps.json
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.runtimeconfig.json
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.pdb
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.dll
+C:\Users\Acer\Desktop\ExamOOPSecond\UnitTests\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.pdb

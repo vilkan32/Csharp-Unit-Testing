@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.Tests.deps.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.Tests.runtimeconfig.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.Tests.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.Tests.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.Tests.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\bin\Debug\netcoreapp2.1\INStock.pdb
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.AssemblyInfo.cs
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.csproj.CopyComplete
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.dll
+C:\Users\Acer\Desktop\TestDrivenDevelopment\INStock - Skeleton\INStock.Tests\obj\Debug\netcoreapp2.1\INStock.Tests.pdb
